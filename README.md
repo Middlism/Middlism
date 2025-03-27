@@ -91,10 +91,6 @@ class Developer:
   </a>
 </div>
 
-## 🐍 GitHub Snake Game
-
-<div align="center"> <img src="https://raw.githubusercontent.com/Middlism/output/github-snake.svg" alt="GitHub Snake Game"> </div>
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -109,5 +105,9 @@ class Developer:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Middlism&color=blueviolet" alt="Profile Views" />
 </div>
+
+## 🐍 GitHub Snake Game
+
+![Snake animation](https://raw.githubusercontent.com/Middlism/Middlism/output/github-snake.svg)
 
 > Explore my repositories below! 👇

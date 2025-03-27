@@ -43,14 +43,3 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
-
-      # Step 4: Update README.md to include the snake game
-      - name: Update README.md
-        run: |
-          echo "## 🐍 GitHub Snake Game" >> README.md
-          echo "![Snake animation](https://raw.githubusercontent.com/${{ github.repository_owner }}/output/github-snake.svg)" >> README.md
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Add snake game animation to README.md" || echo "No changes to commit"
-          git push
