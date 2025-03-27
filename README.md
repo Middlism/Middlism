@@ -19,11 +19,11 @@ class Developer:
         self.university = "University of Melbourne"
         self.location = "Melbourne, Australia"
         self.technologies = {
-            "frontend": ["React", "Next.js", "Fabric.js", "Framer Motion", 
+            "frontend": ["React", "Next.js", "Fabric.js", "Framer Motion",
                          "Material-UI", "Tailwind CSS", "ThreeJS"],
-            "backend": ["Django", "FastAPI", "Express.js", "Node.js", 
+            "backend": ["Django", "FastAPI", "Express.js", "Node.js",
                         "Docker", "PostgreSQL", "Redis"],
-            "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face", 
+            "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face",
                      "OpenCV", "DEAP", "scikit-image"]
         }
         self.current_focus = ["Tracer", "CaveCanvas Evolution"]
@@ -34,7 +34,7 @@ class Developer:
             self.learn_new_tech()
             self.build_cool_projects()
             self.improve_skills()
-            
+
             if not self.success:
                 self.try_again()
             else:
@@ -90,6 +90,10 @@ class Developer:
     <img src="https://img.shields.io/badge/Kaggle-Bronze_Medal_LMSYS_Arena-bronze?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Bronze Medal" />
   </a>
 </div>
+
+## 🐍 GitHub Snake Game
+
+<div align="center"> <img src="https://raw.githubusercontent.com/Middlism/output/github-snake.svg" alt="GitHub Snake Game"> </div>
 
 ## 📫 Contact Me
 
