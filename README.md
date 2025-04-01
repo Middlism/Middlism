@@ -102,9 +102,6 @@ class Developer:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Middlism&color=blueviolet" alt="Profile Views" />
-</div>
 
 ## 🐍 GitHub Snake Game
 
