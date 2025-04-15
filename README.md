@@ -20,7 +20,7 @@ class Developer:
         self.location = "Melbourne, Australia"
         self.technologies = {
             "frontend": ["React", "Next.js", "Fabric.js", "Framer Motion",
-                         "Material-UI", "Tailwind CSS", "ThreeJS"],
+                         "Tailwind CSS", "ThreeJS"],
             "backend": ["Django", "FastAPI", "Express.js", "Node.js",
                         "Docker", "PostgreSQL", "Redis"],
             "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face",
