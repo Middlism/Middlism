@@ -19,8 +19,8 @@ class Developer:
         self.university = "University of Melbourne"
         self.location = "Melbourne, Australia"
         self.technologies = {
-            "frontend": ["React", "Next.js", "Fabric.js", "Framer Motion",
-                         "Tailwind CSS", "ThreeJS"],
+            "frontend": ["React", "Next.js", "PIL/Pillow", "Framer Motion",
+                         "Tailwind CSS", "Webpack"],
             "backend": ["Django", "FastAPI", "Express.js", "Node.js",
                         "Docker", "PostgreSQL", "Redis"],
             "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face",
