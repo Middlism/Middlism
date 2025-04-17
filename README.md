@@ -24,7 +24,7 @@ class Developer:
             "backend": ["Django", "FastAPI", "Express.js", "Node.js",
                         "Docker", "PostgreSQL", "Redis"],
             "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face",
-                     "OpenCV", "DEAP"]
+                     "OpenCV", "Yolo"]
         }
         self.current_focus = ["Tracer", "CaveCanvas Evolution"]
         self.email = "zio1123581321@gmail.com"
