@@ -19,6 +19,14 @@ class Developer:
         self.university = "University of Melbourne"
         self.location = "Melbourne, Australia"
         self.technologies = {
+            "programming_languages": [
+                "C", "C#", "C++", "Java", "JavaScript",
+                "MATLAB", "Python", "R", "SQL", "TypeScript"
+            ]
+            "ai_ml": [
+                "DEAP", "Hugging Face", "OpenAI API", "OpenCV",
+                "PyTorch", "TensorFlow", "Ultralytics"
+            ],
             "frontend": [
                 "React", "Next.js", "PIL/Pillow", "Framer Motion",
                 "Tailwind CSS", "Material-UI", "Figma", "Webpack"
@@ -28,14 +36,6 @@ class Developer:
                 "Docker", "PostgreSQL", "Redis", "Alembic",
                 "Prisma", "Postman"
             ],
-            "ai_ml": [
-                "DEAP", "Hugging Face", "OpenAI API", "OpenCV",
-                "PyTorch", "TensorFlow", "Ultralytics"
-            ],
-            "programming_languages": [
-                "C", "C#", "C++", "Java", "JavaScript",
-                "MATLAB", "Python", "R", "SQL", "TypeScript"
-            ]
         }
         self.current_focus = ["Tracer", "CaveCanvas Evolution"]
         self.email = "zio1123581321@gmail.com"
