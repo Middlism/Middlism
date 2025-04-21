@@ -23,10 +23,6 @@ class Developer:
                 "C", "C#", "C++", "Java", "JavaScript",
                 "MATLAB", "Python", "R", "SQL", "TypeScript"
             ]
-            "ai_ml": [
-                "DEAP", "Hugging Face", "OpenAI API", "OpenCV",
-                "PyTorch", "TensorFlow", "Ultralytics"
-            ],
             "frontend": [
                 "React", "Next.js", "PIL/Pillow", "Framer Motion",
                 "Tailwind CSS", "Material-UI", "Figma", "Webpack"
@@ -35,6 +31,10 @@ class Developer:
                 "Django", "FastAPI", "Express.js", "Node.js",
                 "Docker", "PostgreSQL", "Redis", "Alembic",
                 "Prisma", "Postman"
+            ],
+            "ai_ml": [
+                "DEAP", "Hugging Face", "OpenAI API", "OpenCV",
+                "PyTorch", "TensorFlow", "Ultralytics"
             ],
         }
         self.current_focus = ["Tracer", "CaveCanvas Evolution"]
