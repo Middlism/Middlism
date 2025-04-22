@@ -57,9 +57,9 @@ class Developer:
 
 <div align="center">
   <!-- AI & ML -->
+  <img src="https://img.shields.io/badge/Hugging_Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
