@@ -38,7 +38,6 @@ class Developer:
             ],
         }
         self.current_focus = ["Tracer", "CaveCanvas Evolution"]
-        self.email = "zio1123581321@gmail.com"
 
     def never_stop_learning(self):
         while True:
@@ -53,7 +52,7 @@ class Developer:
                 continue
 ```
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
   <!-- AI & ML -->
@@ -91,49 +90,17 @@ class Developer:
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Middlism&theme=nord_dark" alt="Repos per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Middlism&theme=nord_dark" alt="Most Commit Language">
   
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Middlism&theme=blue-green&show_icons=true" width="400" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Middlism&theme=chartreuse-dark&layout=compact" width="335" alt="Top Languages">
-  </div>
 </div>
 
-## 🔥 Commit Streak
-
-<div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Middlism&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="Commit Activity">
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://www.kaggle.com/certification/competitions/simon1122/rsna-2024-lumbar-spine-degenerative-classification" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Silver_Medal_RSNA_2024-silver?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Silver Medal" />
-  </a>
-  <a href="https://www.kaggle.com/certification/competitions/simon1122/lmsys-chatbot-arena" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Bronze_Medal_LMSYS_Arena-bronze?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Bronze Medal" />
-  </a>
-</div>
-
-## 📫 Contact Me
-
-<div align="center">
-  <a href="mailto:zio1123581321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zio1123581321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/simon-zhang1123/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-simon--zhang1123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 
 ## 🐍 GitHub Snake Game
 
 ![Snake animation](https://raw.githubusercontent.com/Middlism/Middlism/output/github-snake.svg)
 
-> Explore my repositories below! 👇
